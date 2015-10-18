@@ -1,0 +1,1 @@
+YACI (Yet Another Cluster Installer) is a lightweight system management tool set with the daunting task of reliably and quickly installing large-scale (and small-scale) Linux clusters. Included in the tool set are an initrd for booting the nodes, pxelinux to actually perform the boot, and a collection of scripts to automate the installation procedure.
